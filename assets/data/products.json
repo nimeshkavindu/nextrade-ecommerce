@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "NexTrade Smart Watch Series 5",
+    "price": 199.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=400&q=80",
+    "description": "A sleek silver smartwatch with a vibrant AMOLED display, built-in fitness tracking, heart rate monitor, and 7-day battery life. Perfect for staying connected on the go.",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "title": "Modern Wireless Headset",
+    "price": 59.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "description": "High-quality noise-canceling headphones with plush ear cushions and 40 hours of playback time. Experience immersive sound without the wires.",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "title": "Minimalist Ceramic Coffee Maker",
+    "price": 89.50,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1517686469429-8bdb88b9f907?auto=format&fit=crop&w=400&q=80",
+    "description": "Brew the perfect cup every morning. This elegant ceramic coffee maker features a precision drip system and a programmable timer, blending seamlessly into any modern kitchen.",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "title": "Ultra-Boost Running Shoes",
+    "price": 129.00,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "description": "Lightweight and breathable running shoes designed for maximum comfort and energy return. Features a durable rubber outsole for superior traction.",
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "title": "Ergonomic Office Chair",
+    "price": 249.99,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?auto=format&fit=crop&w=400&q=80",
+    "description": "Fully adjustable ergonomic chair with lumbar support and a breathable mesh back. Designed to keep you comfortable during long coding sessions.",
+    "rating": 4.9
+  },
+  {
+    "id": 6,
+    "title": "Classic Cotton Crewneck",
+    "price": 24.99,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80",
+    "description": "A versatile everyday t-shirt made from 100% organic cotton. Soft, durable, and features a relaxed fit for all-day comfort.",
+    "rating": 4.3
+  }
+]
